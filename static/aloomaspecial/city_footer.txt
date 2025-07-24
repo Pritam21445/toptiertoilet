@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What are the typical dimensions of your standard portable toilets, and how much space do I need for placement?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A standard portable toilet unit typically measures approximately 4 feet wide by 4 feet deep (1.2 meters x 1.2 meters) and stands about 7.5 feet (2.3 meters) tall. For placement, we recommend a flat, level surface of at least 5 feet by 5 feet (1.5 meters x 1.5 meters) to allow for easy access around the unit for users and our service technicians. Additionally, we require clear overhead clearance of at least 10 feet (3 meters) for delivery and servicing, ensuring our trucks can safely maneuver and position the units. Adequate space is crucial for both functionality and safety.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">Can portable toilets be placed on uneven terrain or slopes?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Ideally, portable toilets should be placed on a flat, stable, and level surface to ensure stability and prevent tipping, especially when in use. While minor variations in terrain can sometimes be accommodated with leveling blocks, significant slopes or uneven ground are not suitable for safe placement. Placing units on unstable surfaces can pose a safety risk to users and make servicing difficult. If your site has challenging terrain, please discuss this with our team during the consultation phase. We may be able to suggest alternative placement locations or specialized solutions to ensure safe and effective deployment.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">How do you handle waste disposal from the portable toilets?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We adheres to strict environmental regulations and best practices for waste disposal. The waste collected from our portable toilets is securely contained within the unit's holding tank. During scheduled servicing, our trained technicians use specialized vacuum trucks to pump out the waste. This waste is then transported to licensed and approved wastewater treatment facilities, where it undergoes proper treatment and disposal in accordance with all local, state, and federal environmental guidelines. We ensure that no waste is discharged on-site or in an environmentally irresponsible manner, maintaining our commitment to public health and ecological protection.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">Is it possible to rent portable toilets for an extended period, such as several months or a year?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. RTM Portable Toilet specializes in both short-term and long-term rentals. We frequently provide portable sanitation solutions for extended periods, such as multi-month construction projects, long-term commercial sites, or ongoing agricultural needs. For extended rentals, we typically establish a recurring service schedule (e.g., weekly, bi-weekly) to ensure the units remain clean, hygienic, and fully functional throughout the entire rental duration. Long-term rental agreements often come with more favorable pricing structures, and our team can work with you to set up a contract that perfectly aligns with your project timeline and budget.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">What measures do you take to control odors in portable toilets?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Odor control is a critical aspect of maintaining a pleasant portable restroom experience. RTM Portable Toilet employs several effective measures to minimize and control odors. Firstly, we use high-quality, specially formulated deodorizing chemicals in the holding tanks. These chemicals break down waste, kill odor-causing bacteria, and release a fresh scent. Secondly, our rigorous servicing protocol includes thorough cleaning and sanitization of the unit, which removes residual odors. Thirdly, proper ventilation in the units helps to circulate air. Finally, regular and timely servicing, based on usage and environmental conditions, is the most effective way to prevent odor buildup. We ensure our units are always serviced to maintain optimal freshness.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
